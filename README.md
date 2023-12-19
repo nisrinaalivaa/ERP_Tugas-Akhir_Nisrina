@@ -1,4 +1,6 @@
-# LaraPos
+Proyek yang disusun untuk memenuhi tugas akhir Mata Kuliah ERP
+Nisrina Nuraini Aliva (12030120140126)
+# Salecheck!
 [![Stable Laravel](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
 
 ## About
